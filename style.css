@@ -1,0 +1,59 @@
+*{
+
+}
+
+
+
+#main-banner {
+  margin: 0;
+  border: thin solid black;
+  background-color: rgb(227, 115, 222);
+  background-image: url(Fotos/dddd.jpg);
+  padding: 1em;
+  padding-bottom: 0em;
+  background-size: cover;
+
+
+}
+
+#main-banner > h1 {
+  padding-left: 2em;
+  color: grey;
+}
+
+#main-banner > p {
+  color: black;
+}
+
+
+
+#main-banner > a {
+  float: right;
+}
+
+
+body {
+
+  border: thick dotted red;
+  padding: 2em;
+  margin: 1em;
+  border-radius: 5em;
+}
+
+
+
+
+/*
+
+.hola { background-color: red;
+    color: rgb(255, 255, 255);
+}
+
+.ola {
+  font-size: 1em;
+  color: blue;
+  border: thin solid blue;
+  padding: 1em;
+  margin: 2em;
+  border-radius: 2em;
+}
